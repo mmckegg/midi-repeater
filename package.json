@@ -1,0 +1,22 @@
+{
+  "name": "midi-repeater",
+  "version": "0.0.0",
+  "description": "Continuously trigger held midi notes using clock input",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/wave-view.git"
+  },
+  "keywords": [
+    "midi",
+    "repeater"
+  ],
+  "dependencies": {
+    "ditty": "*"
+  },
+  "author": "Matt McKegg",
+  "license": "MIT"
+}
